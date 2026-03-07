@@ -10,6 +10,16 @@ The analysis focuses on understanding fraud patterns related to transaction type
 ## Dataset
 The dataset contains transaction-level information for online payments.
 
+This project uses the **Online Payments Fraud Detection Dataset** available on Kaggle.
+
+Dataset Link:  
+https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+
+The dataset contains transaction-level data for online payments, including:
+
+Due to GitHub file size limitations, the dataset is not uploaded to this repository. 
+You can download it directly from Kaggle using the link above.
+
 Key columns include:
 
 - step – unit of time (1 step = 1 hour)
