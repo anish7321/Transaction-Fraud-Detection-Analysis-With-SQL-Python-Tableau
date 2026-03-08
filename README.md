@@ -267,19 +267,7 @@ Behavioral Transaction Profiling
 
 Build models that learn normal customer transaction patterns and flag deviations as potential fraud.
 
-Repository Structure
-payment-fraud-detection
-│
-├── sql
-│   └── fraud_analysis_queries.sql
-│
-├── python
-│   └── fraud_analysis.ipynb
-│
-├── tableau
-│   └── fraud_dashboard.twbx
-│
-└── README.md
+
 Conclusion
 
 This project demonstrates how combining SQL analysis, statistical methods, and machine learning techniques can uncover fraud patterns in financial transaction data.
